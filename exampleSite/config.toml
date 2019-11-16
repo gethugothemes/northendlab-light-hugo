@@ -2,9 +2,9 @@
 baseURL = "https://examplesite.com/"
 languageCode = "en-us"
 # site title 
-title = "Blogplate | Blog Template"
+title = "Northendlab | Blog Template"
 # theme
-theme = "blogplate-hugo"
+theme = "northendlab-hugo"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -75,7 +75,7 @@ googleAnalitycsID = "Your ID"
 # contact form action
 contactFormAction = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2019 [Northendlab](https://northendlab.com) All Rights Reserved"
+copyright = "&copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
 # preloader
 [params.preloader]

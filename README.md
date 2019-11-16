@@ -1,9 +1,9 @@
 <div align="center">
-<h1><a href="https://gethugothemes.com/">Blogplate</a></h1>
+<h1><a href="https://gethugothemes.com/">Northendlab</a></h1>
 <img src="https://user-images.githubusercontent.com/37659754/68847882-94207580-06f9-11ea-9f3a-1a2b3d59be39.gif" alt="screenshot" width="100%">
 </div>
 
-Blogplate is a personal blog template, but it has multiple author facility. It also has category page for filtering eatch category post. It has builtin search facility. It could be use any type of blog template, specially technical blog template. We use this template for creating a real technical blog site. This site live url is [Northendlab](https://northendlab.com/).
+Northendlab is a personal blog template, but it has multiple author facility. It also has category page for filtering eatch category post. It has builtin search facility. It could be use any type of blog template, specially technical blog template. We use this template for creating a real technical blog site. This site live url is [Northendlab](https://northendlab.com/).
 
 It also has [forestry static cms](https://forestry.io/) settings and front-matter included, so user can easily edit, replace or create pages. Not a single line of code nowledge needed.
 
@@ -24,7 +24,7 @@ It also has [forestry static cms](https://forestry.io/) settings and front-matte
 |---|---|---|---|
 | ![homepage](https://user-images.githubusercontent.com/37659754/68848397-79023580-06fa-11ea-8c3a-6c6ff4638ea8.png) | ![contact](https://user-images.githubusercontent.com/37659754/68848395-78699f00-06fa-11ea-8593-83aa9a03581d.png) | ![search](https://user-images.githubusercontent.com/37659754/68848402-79023580-06fa-11ea-9d3e-1a4d22fb0085.png) | ![tools](https://user-images.githubusercontent.com/37659754/68848393-78699f00-06fa-11ea-8214-52543fba656d.png) |
 
-[Live Demo](http://demo.themefisher.com/blogplate-hugo/).
+[Live Demo](http://demo.themefisher.com/northendlab-hugo/).
 
 ## Installation
 
@@ -33,7 +33,7 @@ Navigate to your themes folder in your Hugo site and use the following commands:
 ```
 $ mkdir themes
 $ cd themes
-$ git clone git@github.com:themefisher/blogplate-hugo.git
+$ git clone git@github.com:themefisher/northendlab-hugo.git
 ```
 
 ## Main features
@@ -48,8 +48,8 @@ $ git clone git@github.com:themefisher/blogplate-hugo.git
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/blogplate-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/blogplate-hugo/issues)
+We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/northendlab-hugo/issues). It’s possible someone has already reported the same problem.
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/northendlab-hugo/issues)
 
 ## Technical Support or Questions
 
