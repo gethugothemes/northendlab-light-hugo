@@ -4,14 +4,11 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8">
-
-        <script>
-          var str = (location.pathname + location.search).substr(11);
-          var result = str.replace("+", " ");
-        </script>
         <h2>Search result for
           <span class="text-primary">
             <script>
+              var str = (window.location.search).substr(3);
+              var result = str.replace("+", " ");
               document.write(result);
             </script>
           </span>
