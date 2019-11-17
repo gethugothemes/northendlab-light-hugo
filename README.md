@@ -1,6 +1,6 @@
 <div align="center">
 <h1><a href="https://gethugothemes.com/">Northendlab</a></h1>
-<img src="https://user-images.githubusercontent.com/37659754/68847882-94207580-06f9-11ea-9f3a-1a2b3d59be39.gif" alt="screenshot" width="100%">
+<img src="https://user-images.githubusercontent.com/37659754/69005981-6d5d7b80-0953-11ea-83a2-b1f93a7e5cd5.gif" alt="screenshot" width="100%">
 </div>
 
 Northendlab is a personal blog template, but it has multiple author facility. It also has category page for filtering eatch category post. It has builtin search facility. It could be use any type of blog template, specially technical blog template. We use this template for creating a real technical blog site. This site live url is [Northendlab](https://northendlab.com/).
@@ -20,9 +20,9 @@ It also has [forestry static cms](https://forestry.io/) settings and front-matte
 
 ## Demo
 
-| Homepage  | Contact  | Search  | Tools  |
+| Author  | Contact  | Search  | Tools  |
 |---|---|---|---|
-| ![homepage](https://user-images.githubusercontent.com/37659754/68848397-79023580-06fa-11ea-8c3a-6c6ff4638ea8.png) | ![contact](https://user-images.githubusercontent.com/37659754/68848395-78699f00-06fa-11ea-8593-83aa9a03581d.png) | ![search](https://user-images.githubusercontent.com/37659754/68848402-79023580-06fa-11ea-9d3e-1a4d22fb0085.png) | ![tools](https://user-images.githubusercontent.com/37659754/68848393-78699f00-06fa-11ea-8214-52543fba656d.png) |
+| ![author](https://user-images.githubusercontent.com/37659754/69005991-8cf4a400-0953-11ea-8dd7-b9a7819803a4.png) | ![contact](https://user-images.githubusercontent.com/37659754/69005990-8bc37700-0953-11ea-8189-3e8cb62b45bd.png) | ![search](https://user-images.githubusercontent.com/37659754/69005992-8cf4a400-0953-11ea-8349-e4f55ae123a5.png) | ![tools](https://user-images.githubusercontent.com/37659754/69005993-8d8d3a80-0953-11ea-965a-d30c3f71dfa2.png) |
 
 [Live Demo](http://demo.themefisher.com/northendlab-hugo/).
 
