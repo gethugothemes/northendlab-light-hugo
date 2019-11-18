@@ -12,7 +12,7 @@
           {{ end }}
         </div>
         {{ if .Params.Image }}
-        <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        <img src="{{ .Params.Image | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
         {{ end }}
         <div class="content mb-5">
           {{ .Content }}
