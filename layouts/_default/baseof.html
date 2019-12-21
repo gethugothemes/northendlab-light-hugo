@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "preloader.html" . -}}
-        {{- partial "header.html" . -}}
-        {{ if not .IsHome }} <div class="py-5 d-none d-lg-block"></div> {{ end }}
-        {{- block "main" . }}
-        {{- end }}
-        {{- partial "footer.html" . -}}
-    </body>
+{{- partial "head.html" . -}}
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.Params.googleTagManager }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {{- partial "preloader.html" . -}}
+    {{- partial "header.html" . -}}
+    {{ if not .IsHome }} <div class="py-5 d-none d-lg-block"></div> {{ end }}
+    {{- block "main" . }}
+    {{- end }}
+    {{- partial "footer.html" . -}}
+</body>
+
 </html>

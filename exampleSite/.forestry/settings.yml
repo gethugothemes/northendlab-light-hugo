@@ -5,14 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
+  path: exampleSite/content
   label: Post
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: data
+  path: exampleSite/data
   label: Tools
   create: documents
   match: "**/*"
@@ -20,27 +20,27 @@ sections:
   templates:
   - tools
 - type: directory
-  path: content/author
+  path: exampleSite/content/author
   label: Author
   create: documents
   match: "**/*"
   templates:
   - author
 - type: document
-  path: documentation
+  path: exampleSite/documentation
   label: Documentation
 - type: directory
-  path: content/contact
+  path: exampleSite/content/contact
   label: Contact
   create: all
   match: "**/*"
 - type: directory
-  path: ''
+  path: exampleSite/
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: static/images
+upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false

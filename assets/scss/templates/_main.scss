@@ -38,6 +38,12 @@
   padding: 60px 60px 40px;
 }
 
+.author-thumb{
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+
 /* pagination */
 .pagination {
   justify-content: center;
@@ -64,6 +70,18 @@
         background: $primary-color;
         color: $white;
       }
+    }
+  }
+}
+.post-title:hover{
+  text-decoration: underline;
+}
+.post-meta{
+  color: #999;
+  a{
+    color: inherit;
+    &:hover{
+      color: $primary-color;
     }
   }
 }

@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center block shadow">
-        <img src="{{ .Params.Image | relURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4">
+        <img src="{{ .Params.Image | relURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4 author-thumb">
         <h4>{{ .Title | markdownify }}</h4>
         <div class="content">
           {{ .Content }}
@@ -23,17 +23,7 @@
         <div class="bg-white shadow block">
           {{ $name:= .Title }}
           {{ range where .Site.RegularPages "Params.author" $name }}
-          <article class="mb-5">
-            <h2 class="h4"><a class="text-dark" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-            <div class="mb-3"><span>by <a href="{{ "author/" | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a></span>,
-              <span>at {{ .PublishDate.Format "02 January 2006" }}</span>, category :
-              {{ range .Params.Categories }}
-              <a href="{{ "categories/" | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
-              {{ end }}
-            </div>
-            <p>{{.Summary}}</p>
-            <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">read more</a>
-          </article>
+          {{ .Render "article" }}
           {{ end }}
         </div>
       </div>

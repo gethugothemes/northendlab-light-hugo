@@ -99,6 +99,10 @@ select {
   color: $primary-color !important;
 }
 
+a.text-primary:hover {
+  color: $primary-color !important;
+}
+
 .text-color {
   color: $text-color;
 }

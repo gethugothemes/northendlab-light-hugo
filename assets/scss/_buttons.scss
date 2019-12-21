@@ -51,3 +51,20 @@
     color: $white;
   }
 }
+
+
+.btn-transparent {
+  background: transparent;
+  color: $primary-color;
+  border: 0;
+  border-bottom: 1px solid $primary-color;
+  border-radius: 0;
+  padding: 2px;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: transparent;
+  }
+}
