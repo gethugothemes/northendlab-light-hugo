@@ -1,13 +1,30 @@
-<div align="center">
-<h1><a href="https://gethugothemes.com/">Northendlab</a></h1>
-<img src="https://user-images.githubusercontent.com/37659754/69005981-6d5d7b80-0953-11ea-83a2-b1f93a7e5cd5.gif" alt="screenshot" width="100%">
-</div>
+# Easy Setup (Hugo + Netlify + Forestry)
+Build your website with northendlab hugo theme by following this easy steps (No Coding Required)
 
-Northendlab is a personal blog template, but it has multiple author facility. It also has category page for filtering eatch category post. It has builtin search facility. It could be use any type of blog template, specially technical blog template. We use this template for creating a real technical blog site. This site live url is [Northendlab](https://northendlab.com/).
+<a href="https://bit.ly/meghna-hugo" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
 
-It also has [forestry static cms](https://forestry.io/) settings and front-matter included, so user can easily edit, replace or create pages. Not a single line of code nowledge needed.
+In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
 
-**The images are only for demonstration purpose, Please don't use those images.**
+### What you need !!
+
+1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
+2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
+3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
+
+
+### Step 1 : Fork or Clone repository
+
+First we will fork this [northendlab hugo](https://github.com/themefisher/northendlab-hugo) template.
+
+### Step 2 : Add your repository in Forestry
+
+Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings . Mark everything is done then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
+
+### Step 3 : Setup and host website with Netlify
+
+Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `northendlab hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+
+> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/northendlab-hugo/issues)
 
 ## Table of Contents
 
@@ -24,16 +41,18 @@ It also has [forestry static cms](https://forestry.io/) settings and front-matte
 |---|---|---|---|
 | ![author](https://user-images.githubusercontent.com/37659754/69005991-8cf4a400-0953-11ea-8dd7-b9a7819803a4.png) | ![contact](https://user-images.githubusercontent.com/37659754/69005990-8bc37700-0953-11ea-8189-3e8cb62b45bd.png) | ![search](https://user-images.githubusercontent.com/37659754/69005992-8cf4a400-0953-11ea-8349-e4f55ae123a5.png) | ![tools](https://user-images.githubusercontent.com/37659754/69005993-8d8d3a80-0953-11ea-965a-d30c3f71dfa2.png) |
 
+**The images are only for demonstration purpose, Please don't use those images.**
+
 [Live Demo](http://demo.themefisher.com/northendlab-hugo/).
 
-## Installation
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+## Installation
+At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
 ```
-$ mkdir themes
-$ cd themes
 $ git clone git@github.com:themefisher/northendlab-hugo.git
+$ cd northendlab-hugo/exampleSite/
+$ hugo server --themesDir ../..
 ```
 
 ## Main features
