@@ -71,9 +71,9 @@ logo = "images/logo.svg"
 author = "Themefisher"
 description = "This is meta description"
 # google analitycs ID
-googleAnalitycsID = "Your ID"
+google_analitycs_id = "Your ID"
 # contact form action
-contactFormAction = "#" # contact form works with : https://formspree.io
+contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
