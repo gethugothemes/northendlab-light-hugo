@@ -12,7 +12,7 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .URL | absURL }} ">
+  <link rel="stylesheet" href="{{ .link | absURL }} ">
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
@@ -24,6 +24,7 @@
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
 
   <!-- Google Tag Manager -->
+  {{ with .Site.Params.google_tag_manager}}
   <script>
     (function (w, d, s, l, i) {
       w[l] = w[l] || [];
@@ -38,8 +39,9 @@
       j.src =
         'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', '{{ .Site.Params.googleTagManager }}');
+    })(window, document, 'script', 'dataLayer', '{{ . }}');
   </script>
+  {{ end }}
   <!-- End Google Tag Manager -->
 
 </head>

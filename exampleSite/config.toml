@@ -19,21 +19,21 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 
 # css plugins
 [[params.plugins.css]]
-URL = "plugins/bootstrap/bootstrap.min.css"
+link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-URL = "plugins/themify-icons/themify-icons.css"
+link = "plugins/themify-icons/themify-icons.css"
 
 # js plugins
 [[params.plugins.js]]
-URL = "plugins/jQuery/jquery.min.js"
+link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-URL = "plugins/bootstrap/bootstrap.min.js"
+link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-URL = "plugins/search/fuse.min.js"
+link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
-URL = "plugins/search/mark.js"
+link = "plugins/search/mark.js"
 [[params.plugins.js]]
-URL = "plugins/search/search.js"
+link = "plugins/search/search.js"
 
 
 ########################### Navigation ###################################
@@ -70,8 +70,10 @@ logo = "images/logo.svg"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
+# google tag manager
+google_tag_manager = "" # your id
 # google analitycs ID
-google_analitycs_id = "Your ID"
+google_analitycs_id = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
