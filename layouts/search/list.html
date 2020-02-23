@@ -8,7 +8,7 @@
           <span class="text-primary">
             <script>
               var str = (window.location.search).substr(3);
-              var result = str.replace("+", " ");
+              var result = decodeURI(str.replace(/+/g, " "));
               document.write(result);
             </script>
           </span>
