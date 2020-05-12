@@ -38,7 +38,7 @@
         <div class="search">
           <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
           <div class="search-wrapper">
-            <form action="{{ .Site.BaseURL }}/search" class="h-100">
+            <form action="{{ `search` | absURL }}" class="h-100">
               <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
             </form>
             <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>

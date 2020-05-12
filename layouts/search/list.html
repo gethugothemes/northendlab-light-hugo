@@ -7,10 +7,7 @@
         <h2>Search result for
           <span class="text-primary">
             <script>
-              var str = (window.location.search).substr(3);
-              var result = decodeURI(str.replace(/+/g, " "));
-              document.write(result);
-            </script>
+              var str=(window.location.search).substr(3);var result=str.replace("+"," ");document.write(result);</script>
           </span>
         </h2>
         <div class="block shadow">
