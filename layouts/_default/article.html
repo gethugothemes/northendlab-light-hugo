@@ -1,11 +1,15 @@
 <article class="mb-5">
   <h2 class="h4"><a class="post-title" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
   <div class="mb-3 post-meta">
-    <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a>,
-    {{ .PublishDate.Format "02/01/2006" }}, {{ range .Params.Categories }}
-    <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+    <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>,
+    {{ .PublishDate.Format "Jan 2, 2006" }}, {{ range .Params.Categories }}
+    <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
     {{ end }}
   </div>
   <p>{{.Summary}}</p>
+  <div class="mb-3 post-meta">
+    {{range .Params.Tags }} <a href="{{ `tags/` | relLangURL}}{{ . | urlize | lower }}">#{{ . | title }}</a>,  {{ end }}
+  </div>
   <a href="{{ .Permalink }}" class="btn btn-sm btn-transparent pl-0">read more</a>
+  <div style="border: 1px #eee solid; margin:30px 0"></div>
 </article>

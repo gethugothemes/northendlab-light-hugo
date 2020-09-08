@@ -19,7 +19,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto px-0">
-        <h2 class="mb-4">Post by author</h2>
+        <h2 class="mb-4">Posts by {{ .Title }}</h2>
         <div class="bg-white shadow block">
           {{ $name:= .Title }}
           {{ range where .Site.RegularPages "Params.author" $name }}
