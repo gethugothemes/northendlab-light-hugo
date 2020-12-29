@@ -56,10 +56,11 @@ At the top we have shown an easy hugo installation. but still if you think you w
 **Note : You must use `hugo-extended` version to compile SCSS**
 
 ```
-$ git clone git@github.com:themefisher/northendlab-hugo.git
+$ git clone git@github.com:gethugothemes/northendlab-hugo.git
 $ cd northendlab-hugo/exampleSite/
 $ hugo server --themesDir ../..
 ```
+Or Check out [Full Documentation](https://docs.gethugothemes.com/northendlab/?ref=github).
 
 ## Main features
 
@@ -85,10 +86,6 @@ We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@th
 
 ## Premium Themes
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![revolve](https://gethugothemes.com/wp-content/uploads/edd/2019/11/revolve.jpg)](https://gethugothemes.com/products/revolve-hugo/) | [![Liva](https://gethugothemes.com/wp-content/uploads/edd/2019/11/liva.png)](https://gethugothemes.com/products/liva-hugo/) |
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![reader](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg](https://gethugothemes.com/products/logbook-hugo/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Revolve**  | **Liva**  |
-| [![northendlab](https://gethugothemes.com/wp-content/uploads/2019/11/Blogplate-Blog-Template.png)](https://gethugothemes.com/products/northendlab/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
-| **Northendlab** | **Influencer** | **Kross** |
-| [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Biztrox** | **Parsa** | **More Hugo Themes** |
+| **Hugo Mega Bundle**  | **Reader**  | **Logbook**  |
