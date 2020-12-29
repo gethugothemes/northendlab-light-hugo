@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto px-0">
-        <h2 class="mb-4">Posts are showing from <span class="text-primary">{{ .Title }}</span> categories</h2>
+        <h2 class="mb-4">Posts related to <span class="text-primary">{{ .Title }}</span></h2>
         <div class="bg-white shadow block">
           {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
           {{ range $paginator.Pages }}
