@@ -1,10 +1,10 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
+baseURL = "https://demo.gethugothemes.com/northendlab-light/"
 languageCode = "en-us"
 # site title 
 title = "Northendlab | Blog Template"
 # theme
-theme = "northendlab-hugo"
+theme = "northendlab-light"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -47,6 +47,11 @@ weight = 1
 [[menu.main]]
 URL = "tools"
 name = "tools"
+weight = 2
+
+[[menu.main]]
+URL = "https://gethugothemes.com/products/northendlab/"
+name = "Buy Premium"
 weight = 2
 
 # footer menu

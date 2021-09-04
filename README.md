@@ -47,7 +47,7 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 **The images are only for demonstration purpose, Please don't use those images.**
 
-[Live Demo](http://demo.themefisher.com/northendlab-hugo/).
+[Live Demo](https://demo.gethugothemes.com/northendlab-light/).
 
 
 ## Installation
