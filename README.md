@@ -1,95 +1,125 @@
-# Easy Setup (Hugo + Netlify + Forestry)
-Build your website with northendlab hugo theme by following this easy steps (No Coding Required)
+<h1 align=center>Northendlab Light Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2F">Page Speed (81%)</a></h1>
 
-<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.58.0&color=f00&logo=hugo" />
+  </a>
 
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
+  <a href="https://github.com/gethugothemes/northendlab-light/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/gethugothemes/northendlab-light" alt="license"></a>
 
-### What you need !!
+  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/northendlab-light" alt="code size">
 
-1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
-2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
-3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
+  <a href="https://github.com/gethugothemes/northendlab-light/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/gethugothemes/northendlab-light" alt="contributors"></a>
 
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-### Step 1 : Fork or Clone repository
+---
 
-First we will fork this [northendlab hugo](https://github.com/themefisher/northendlab-hugo) template.
+<p align="center">
+<img src="https://demo.gethugothemes.com/thumbnails/northendlab.webp" alt="screenshot" width="100%">
+</p>
 
-### Step 2 : Add your repository in Forestry
-
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings .
-
-**Or just click this button for one click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/northendlab-hugo&engine=hugo&version=0.60.1&config=exampleSite)
-
-Now mark everything as done, then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
-
-### Step 3 : Setup and host website with Netlify
-
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `northendlab hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
-
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/northendlab-hugo/issues)
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [More Hugo Themes](https://gethugothemes.com/shop/)
-
-## Demo
-
-| Author  | Contact  | Search  | Tools  |
-|---|---|---|---|
-| ![author](https://user-images.githubusercontent.com/37659754/69005991-8cf4a400-0953-11ea-8dd7-b9a7819803a4.png) | ![contact](https://user-images.githubusercontent.com/37659754/69005990-8bc37700-0953-11ea-8189-3e8cb62b45bd.png) | ![search](https://user-images.githubusercontent.com/37659754/69005992-8cf4a400-0953-11ea-8349-e4f55ae123a5.png) | ![tools](https://user-images.githubusercontent.com/37659754/69005993-8d8d3a80-0953-11ea-965a-d30c3f71dfa2.png) |
-
-**The images are only for demonstration purpose, Please don't use those images.**
-
-[Live Demo](https://demo.gethugothemes.com/northendlab-light/).
+---
+## Features
+- Multiple homepage (2)
+- Open graph meta tag
+- Twitter card meta tag
+- Google analytics  support
+- Multiple language support ( Fr, En )
+- Css and js bundle with hugo pipe
+- Netlify settings predefined
+- Forestry cms pre-configured
+- Multiple author  available
+- Menu alignment customized ( left, right, or center )
+- Color and fonts variable in config file
+- Contact form support
+- Header-search-layout( expanded, popupable )
+- Search by fuse.js
+- Sidebar option ( left, right or false )
+- Mailchimp integrated
+- GDPR consent enabled
+- Google page speed optimized ( 81% )
 
 
-## Installation
-At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
+## Local development
 
-**Note : You must use `hugo-extended` version to compile SCSS**
+```bash
+# clone the repository
+git clone git@github.com:gethugothemes/northendlab-light.git
 
-```
-$ git clone git@github.com:gethugothemes/northendlab-hugo.git
-$ cd northendlab-hugo/exampleSite/
+# cd in the project directory
+$ cd northendlab-light/exampleSite/
+
+# Start local dev server
 $ hugo server --themesDir ../..
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/northendlab/?ref=github).
+Or Check out [Full Documentation](https://docs.gethugothemes.com/Northendlab/?ref=github).
 
-## Main features
+## Content Management System
 
-- Bootstrap 4 Powered
-- Google Analytics
-- SEO Friendly
-- Multiple Author
-- Contact Page
-- Search Item
-- Responsive Ready
+[![import to
+Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/northendlab-light&engine=hugo&version=0.87.0)
 
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
+repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/northendlab-light&engine=hugo&version=0.87.0) and
+you will be able to edit and preview your site ✨.
+
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
+## Deployment and hosting
+
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/northendlab-light)
+
+Follow the steps.
+
+## Prefer a video? (Hugo + Netlify + Forestry)
+Build your website with **Northendlab Light Hugo** theme by following these easy steps (No Coding Required!)
+[Video Tutorial](https://youtu.be/ResipmZmpDU).
+
+<!-- reporting issue -->
 ## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Northendlab Light Template. Please Search [existing
+issues](https://github.com/gethugothemes/northendlab-light/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/gethugothemes/northendlab-light/issues).
 
-We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/northendlab-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/northendlab-hugo/issues)
+## Northendlab Light Hugo theme Powered Websites
+- https://www.testlab.live
+- https://www.thecommercegrind.com
 
-## Technical Support or Questions (Paid)
+View all the websites powered by Northendlab Light Hugo theme [here](https://github.com/gethugothemes/northendlab-light/wiki/All-northendlab-light-theme-Powered-Websites). Want to submit your own website powered by Northendlab Light Hugo theme? You can submit it [here](https://github.com/gethugothemes/northendlab-light/discussions).
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
+<!-- licence -->
+## License
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
+
+**Code License:** Released under the [MIT](https://github.com/gethugothemes/northendlab-light/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
+
+<!-- resources -->
+## Special Thanks
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Themify Icons](https://themify.me/themify-icons)
+- [Fuse Js](http://fusejs.io)
+- [Google Fonts](https://fonts.google.com)
+- [All Contributors](https://github.com/gethugothemes/northendlab-light/graphs/contributors)
+
 
 ## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+We are available for **Hiring** for your next HUGO project. Please, check our
+[services](https://cutt.ly/ght-service)
 
-## Premium Themes
-
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![reader](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg](https://gethugothemes.com/products/logbook-hugo/) |
+<!-- premium themes -->
+## Premium Themes By Us
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Revolve**  | **Liva**  |
-| [![northendlab](https://gethugothemes.com/wp-content/uploads/edd/2020/05/northendlab-hugo-theme.png)](https://gethugothemes.com/products/northendlab/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
-| **Northendlab** | **Influencer** | **Kross** |
-| [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Biztrox** | **Parsa** | **More Hugo Themes** |
+| **Premium Theme Bundle (40+)** | **Reader** | **Bizcraft** |
