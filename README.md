@@ -1,4 +1,4 @@
-<h1 align=center>Northendlab Light Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2F">Page Speed (81%)</a></h1>
+<h1 align=center>Northendlab Light Hugo | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -26,24 +26,28 @@
 
 ---
 ## Features
-- Multiple homepage (2)
-- Open graph meta tag
-- Twitter card meta tag
-- Google analytics  support
-- Multiple language support ( Fr, En )
-- Css and js bundle with hugo pipe
-- Netlify settings predefined
-- Forestry cms pre-configured
-- Multiple author  available
-- Menu alignment customized ( left, right, or center )
-- Color and fonts variable in config file
-- Contact form support
-- Header-search-layout( expanded, popupable )
-- Search by fuse.js
-- Sidebar option ( left, right or false )
-- Mailchimp integrated
-- GDPR consent enabled
-- Google page speed optimized ( 81% )
+
+
+| [Northendlab Light](https://github.com/gethugothemes/northendlab-light)                      | [Northendlabs Premium](https://gethugothemes.com/products/northendlab/)                              |
+| :-------------                                                                           |:-------------                            | 
+| Google analytics  support                                                                | Google analytics  support                |
+| CSS and Js bundle with hugo pipe                                                         | CSS and Js bundle with hugo pipe         |
+| Netlify settings predefine                                                               | Netlify settings predefine               |
+| Forestry cms pre-configured                                                              | Forestry cms pre-configured              |
+| Contact form Support                                                                     | Contact form Support                     |
+| Search by fuse.js                                                                        | Search by fuse.js                        |
+| GDPR consent enable                                                                      | GDPR consent enable                      |
+| Google page speed optimized ( 90% )                                                      | Google page speed optimized ( 77% )      |          
+| Open graph meta tag                                                                      | Open graph meta tag                      |
+| Twitter card meta tag                                                                    | Twitter card meta tag                    |
+| Home Page, Contact Page and Tools Page available                                         | Premium page list ([Home Classic Page](https://demo.gethugothemes.com/northendlab/homepage/classic/), [Home Creative Page](https://demo.gethugothemes.com/northendlab/homepage/creative/), [About Page](https://demo.gethugothemes.com/northendlab/about/), [Tag Page](https://demo.gethugothemes.com/northendlab/tags/tech/), [Category Page](https://demo.gethugothemes.com/northendlab/categories/hugo/), [Elements Page](https://demo.gethugothemes.com/northendlab/elements/) )              |
+|                                                                                          | Multiple language support (Fr, En)                     |
+|                                                                                          | Multiple author support                              |
+|                                                                                          | Header-search-layout (expanded, popupable)              |
+|                                                                                          | Menu alignment customize (left, right, or center )     |
+|                                                                                          | Color and fonts variable in config file                |
+|                                                                                          | Sidebar option (left, right or false)                  |
+|                                                                                          | Mailchimp integrate                                    |
 
 
 ## Local development
@@ -88,11 +92,11 @@ issues](https://github.com/gethugothemes/northendlab-light/issues). Someone may 
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/northendlab-light/issues).
 
-## Northendlab Light Hugo theme Powered Websites
+## Northendlab Light Hugo Powered Websites
 - https://www.testlab.live
 - https://www.thecommercegrind.com
 
-View all the websites powered by Northendlab Light Hugo theme [here](https://github.com/gethugothemes/northendlab-light/wiki/All-northendlab-light-theme-Powered-Websites). Want to submit your own website powered by Northendlab Light Hugo theme? You can submit it [here](https://github.com/gethugothemes/northendlab-light/discussions).
+Want to submit your own website powered by Northendlab Light Hugo? You can submit it [here](https://github.com/gethugothemes/northendlab-light/discussions/19).
 
 <!-- licence -->
 ## License
@@ -110,6 +114,7 @@ share those images.
 - [Jquery](https://jquery.com)
 - [Themify Icons](https://themify.me/themify-icons)
 - [Fuse Js](http://fusejs.io)
+- [Mark Js](https://markjs.io/)
 - [Google Fonts](https://fonts.google.com)
 - [All Contributors](https://github.com/gethugothemes/northendlab-light/graphs/contributors)
 
@@ -120,6 +125,6 @@ We are available for **Hiring** for your next HUGO project. Please, check our
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![airspace](https://demo.gethugothemes.com/thumbnails/airspace.webp)](https://gethugothemes.com/products/airspace/) | [![wishfund](https://demo.gethugothemes.com/thumbnails/wishfund.webp)](https://gethugothemes.com/products/wishfund/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Reader** | **Bizcraft** |
+| **Premium Theme Bundle (40+)** | **Airspace** | **wishfund** |
