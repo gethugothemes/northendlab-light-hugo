@@ -1,4 +1,4 @@
-<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
+<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
