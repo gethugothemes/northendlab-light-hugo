@@ -38,7 +38,7 @@
 | Contact form Support                                                                     | Contact form Support                     |
 | Search by fuse.js and mark.js                                                            | Search by fuse.js and mark.js            |
 | GDPR consent enable                                                                      | GDPR consent enable                      |
-| Google page speed optimized ( 90% )                                                      | Google page speed optimized ( 77% )      |          
+| Google page speed optimized ( 90% )                                                      | Google page speed optimized ( 92% )      |          
 | Open graph meta tag                                                                      | Open graph meta tag                      |
 | Twitter card meta tag                                                                    | Twitter card meta tag                    |
 | Home Page, Contact Page and Tools Page available                                         | Premium page list ([Home Classic Page](https://demo.gethugothemes.com/northendlab/homepage/classic/), [Home Creative Page](https://demo.gethugothemes.com/northendlab/homepage/creative/), [About Page](https://demo.gethugothemes.com/northendlab/about/), [Tag Page](https://demo.gethugothemes.com/northendlab/tags/tech/), [Category Page](https://demo.gethugothemes.com/northendlab/categories/hugo/), [Elements Page](https://demo.gethugothemes.com/northendlab/elements/) )              |
