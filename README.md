@@ -1,4 +1,4 @@
-<h1 align=center>Northendlab Light Hugo | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
+<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -21,21 +21,22 @@
 ---
 
 <p align="center">
-<img src="https://demo.gethugothemes.com/thumbnails/northendlab.webp" alt="screenshot" width="100%">
+
+ ![Northendlab](images/tn.png)
 </p>
 
 ---
 ## Features
 
 
-| [Northendlab Light](https://github.com/gethugothemes/northendlab-light)                      | [Northendlabs Premium](https://gethugothemes.com/products/northendlab/)                              |
+| [Northendlab Light](https://github.com/gethugothemes/northendlab-light)                      | [Northendlab Premium](https://gethugothemes.com/products/northendlab/)                              |
 | :-------------                                                                           |:-------------                            | 
 | Google analytics  support                                                                | Google analytics  support                |
 | CSS and Js bundle with hugo pipe                                                         | CSS and Js bundle with hugo pipe         |
 | Netlify settings predefine                                                               | Netlify settings predefine               |
 | Forestry cms pre-configured                                                              | Forestry cms pre-configured              |
 | Contact form Support                                                                     | Contact form Support                     |
-| Search by fuse.js                                                                        | Search by fuse.js                        |
+| Search by fuse.js and mark.js                                                            | Search by fuse.js and mark.js            |
 | GDPR consent enable                                                                      | GDPR consent enable                      |
 | Google page speed optimized ( 90% )                                                      | Google page speed optimized ( 77% )      |          
 | Open graph meta tag                                                                      | Open graph meta tag                      |
@@ -121,10 +122,10 @@ share those images.
 
 ## Hire Us
 We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://cutt.ly/ght-service)
+[services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![airspace](https://demo.gethugothemes.com/thumbnails/airspace.webp)](https://gethugothemes.com/products/airspace/) | [![wishfund](https://demo.gethugothemes.com/thumbnails/wishfund.webp)](https://gethugothemes.com/products/wishfund/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![airspace](https://demo.gethugothemes.com/thumbnails/airspace.webp)](https://gethugothemes.com/products/airspace/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.webp)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Airspace** | **wishfund** |
+| **Premium Theme Bundle (40+)** | **Airspace** | **Bigspring** |
