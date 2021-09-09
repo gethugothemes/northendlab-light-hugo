@@ -26,29 +26,29 @@
 </p>
 
 ---
-## Features
+## Discover Free & Premium Features
 
-
-| [Northendlab Light](https://github.com/gethugothemes/northendlab-light)                      | [Northendlab Premium](https://gethugothemes.com/products/northendlab/)                              |
-| :-------------                                                                           |:-------------                            | 
-| Google analytics  support                                                                | Google analytics  support                |
-| CSS and Js bundle with hugo pipe                                                         | CSS and Js bundle with hugo pipe         |
-| Netlify settings predefine                                                               | Netlify settings predefine               |
-| Forestry cms pre-configured                                                              | Forestry cms pre-configured              |
-| Contact form Support                                                                     | Contact form Support                     |
-| Search by fuse.js and mark.js                                                            | Search by fuse.js and mark.js            |
-| GDPR consent enable                                                                      | GDPR consent enable                      |
-| Google page speed optimized ( 90% )                                                      | Google page speed optimized ( 77% )      |          
-| Open graph meta tag                                                                      | Open graph meta tag                      |
-| Twitter card meta tag                                                                    | Twitter card meta tag                    |
-| Home Page, Contact Page and Tools Page available                                         | Premium page list ([Home Classic Page](https://demo.gethugothemes.com/northendlab/homepage/classic/), [Home Creative Page](https://demo.gethugothemes.com/northendlab/homepage/creative/), [About Page](https://demo.gethugothemes.com/northendlab/about/), [Tag Page](https://demo.gethugothemes.com/northendlab/tags/tech/), [Category Page](https://demo.gethugothemes.com/northendlab/categories/hugo/), [Elements Page](https://demo.gethugothemes.com/northendlab/elements/) )              |
-|                                                                                          | Multiple language support (Fr, En)                     |
-|                                                                                          | Multiple author support                              |
-|                                                                                          | Header-search-layout (expanded, popupable)              |
-|                                                                                          | Menu alignment customize (left, right, or center )     |
-|                                                                                          | Color and fonts variable in config file                |
-|                                                                                          | Sidebar option (left, right or false)                  |
-|                                                                                          | Mailchimp integrate                                    |
+Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
+:------------ |    :----:    |     :----:    | 
+Google analytics support                   | ✔️ | ✔️                |
+CSS and Js bundle with hugo pipe           | ✔️ | ✔️                |
+Netlify settings predefine                 | ✔️ | ✔️                |
+Forestry cms pre-configured                | ✔️ | ✔️                |
+Contact form Support                       | ✔️ | ✔️                |
+Search by fuse.js and mark.js              | ✔️ | ✔️                |
+GDPR consent enable                        | ✔️ | ✔️                |
+Google page speed optimized                | ✔️ | ✔️                |
+Open graph meta tag                        | ✔️ | ✔️                |
+Twitter card meta tag                      | ✔️ | ✔️                |
+Multiple language support (Fr, En)                       | ✖️      | ✔️                |
+Multiple author support                                  | ✖️      | ✔️                |
+Header-search-layout (expanded, popupable)               | ✖️      | ✔️                |
+Menu alignment customized (left, right, or center )      | ✖️      | ✔️                |
+Color and fonts variable in config file                  | ✖️      | ✔️                |
+Sidebar option (left, right or false)                    | ✖️      | ✔️                |
+Mailchimp integrate                                      | ✖️      | ✔️                | 
+5+ Premium Pages    | ✖️     | ✔️ |
+Get It Now          | [![download-light](https://user-images.githubusercontent.com/88376439/132500272-dbe39bc0-bb69-4292-b72c-27599bf1bac5.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://user-images.githubusercontent.com/88376439/132500074-35ed470a-481c-49cb-ba05-ea0523da63e2.png)](https://gethugothemes.com/products/northendlab/?ref=github)
 
 
 ## Local development
