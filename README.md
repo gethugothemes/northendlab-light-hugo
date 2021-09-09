@@ -30,24 +30,25 @@
 
 Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
 :------------ |    :----:    |     :----:    | 
-Google analytics support                   | ✔️ | ✔️                |
-CSS and Js bundle with hugo pipe           | ✔️ | ✔️                |
-Netlify settings predefine                 | ✔️ | ✔️                |
-Forestry cms pre-configured                | ✔️ | ✔️                |
-Contact form Support                       | ✔️ | ✔️                |
-Search by fuse.js and mark.js              | ✔️ | ✔️                |
-GDPR consent enable                        | ✔️ | ✔️                |
-Google page speed optimized                | ✔️ | ✔️                |
-Open graph meta tag                        | ✔️ | ✔️                |
-Twitter card meta tag                      | ✔️ | ✔️                |
-Multiple language support (Fr, En)                       | ✖️      | ✔️                |
-Multiple author support                                  | ✖️      | ✔️                |
-Header-search-layout (expanded, popupable)               | ✖️      | ✔️                |
-Menu alignment customized (left, right, or center )      | ✖️      | ✔️                |
-Color and fonts variable in config file                  | ✖️      | ✔️                |
-Sidebar option (left, right or false)                    | ✖️      | ✔️                |
-Mailchimp integrate                                      | ✖️      | ✔️                | 
-5+ Premium Pages    | ✖️     | ✔️ |
+Google analytics support                   | :white_check_mark: | :white_check_mark:                |
+CSS and Js bundle with hugo pipe           | :white_check_mark: | :white_check_mark:                |
+Netlify settings predefine                 | :white_check_mark: | :white_check_mark:                |
+Forestry cms pre-configured                | :white_check_mark: | :white_check_mark:                |
+Contact form Support (formspree)           | :white_check_mark: | :white_check_mark:                |
+Search by fuse.js and mark.js              | :white_check_mark: | :white_check_mark:                |
+GDPR consent enable                        | :white_check_mark: | :white_check_mark:                |
+Google page speed optimized                | :white_check_mark: | :white_check_mark:                |
+Open graph meta tag                        | :white_check_mark: | :white_check_mark:                |
+Twitter card meta tag                      | :white_check_mark: | :white_check_mark:                |
+Multiple language support (Fr, En)                       | :heavy_multiplication_x:      | :white_check_mark:                |
+Multiple author support                                  | :heavy_multiplication_x:      | :white_check_mark:                |
+Header-search-layout (expanded, popupable)               | :heavy_multiplication_x:      | :white_check_mark:                |
+Menu alignment customized (left, right, or center )      | :heavy_multiplication_x:      | :white_check_mark:                |
+Color and fonts variable in config file                  | :heavy_multiplication_x:      | :white_check_mark:                |
+Sidebar option (left, right or false)                    | :heavy_multiplication_x:      | :white_check_mark:                |
+Mailchimp integrate                                      | :heavy_multiplication_x:      | :white_check_mark:                | 
+5+ Premium Pages                                         | :heavy_multiplication_x:      | :white_check_mark: |
+Priority Support                                         | :heavy_multiplication_x: | :white_check_mark: |
 Get It Now          | [![download-light](https://user-images.githubusercontent.com/88376439/132500272-dbe39bc0-bb69-4292-b72c-27599bf1bac5.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://user-images.githubusercontent.com/88376439/132500074-35ed470a-481c-49cb-ba05-ea0523da63e2.png)](https://gethugothemes.com/products/northendlab/?ref=github)
 
 
