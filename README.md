@@ -28,7 +28,7 @@
 ---
 ## Discover Free & Premium Features
 
-Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
+Features | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
 :------------ |    :----:    |     :----:    | 
 Google analytics support                   | :white_check_mark: | :white_check_mark:                |
 CSS and Js bundle with hugo pipe           | :white_check_mark: | :white_check_mark:                |
