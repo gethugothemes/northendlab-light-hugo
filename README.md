@@ -27,29 +27,28 @@
 
 ---
 ## Discover Free & Premium Features
-
-Features | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
+Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
 :------------ |    :----:    |     :----:    | 
-Google analytics support                   | :white_check_mark: | :white_check_mark:                |
-CSS and Js bundle with hugo pipe           | :white_check_mark: | :white_check_mark:                |
-Netlify settings predefine                 | :white_check_mark: | :white_check_mark:                |
-Forestry cms pre-configured                | :white_check_mark: | :white_check_mark:                |
-Contact form Support (formspree)           | :white_check_mark: | :white_check_mark:                |
-Search by fuse.js and mark.js              | :white_check_mark: | :white_check_mark:                |
-GDPR consent enable                        | :white_check_mark: | :white_check_mark:                |
-Google page speed optimized                | :white_check_mark: | :white_check_mark:                |
-Open graph meta tag                        | :white_check_mark: | :white_check_mark:                |
-Twitter card meta tag                      | :white_check_mark: | :white_check_mark:                |
-Multiple language support (Fr, En)                       | :heavy_multiplication_x:      | :white_check_mark:                |
-Multiple author support                                  | :heavy_multiplication_x:      | :white_check_mark:                |
-Header-search-layout (expanded, popupable)               | :heavy_multiplication_x:      | :white_check_mark:                |
-Menu alignment customized (left, right, or center )      | :heavy_multiplication_x:      | :white_check_mark:                |
-Color and fonts variable in config file                  | :heavy_multiplication_x:      | :white_check_mark:                |
-Sidebar option (left, right or false)                    | :heavy_multiplication_x:      | :white_check_mark:                |
-Mailchimp integrate                                      | :heavy_multiplication_x:      | :white_check_mark:                | 
-5+ Premium Pages                                         | :heavy_multiplication_x:      | :white_check_mark: |
-Priority Support                                         | :heavy_multiplication_x: | :white_check_mark: |
-Get It Now          | [![download-light](https://user-images.githubusercontent.com/88376439/132500272-dbe39bc0-bb69-4292-b72c-27599bf1bac5.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://user-images.githubusercontent.com/88376439/132500074-35ed470a-481c-49cb-ba05-ea0523da63e2.png)](https://gethugothemes.com/products/northendlab/?ref=github)
+Google analytics support                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+CSS and Js bundle with hugo pipe           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Netlify settings predefine                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Forestry cms pre-configured                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Contact form Support (formspree)           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Search by fuse.js and mark.js              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+GDPR consent enable                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Google page speed optimized                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Open graph meta tag                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Twitter card meta tag                      | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Multiple language support (Fr, En)                       | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Multiple author support                                  | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Header-search-layout (expanded, popupable)               | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Menu alignment customized (left, right, or center )      | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Color and fonts variable in config file                  | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Sidebar option (left, right or false)                    | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
+Mailchimp integrate                                      | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                | 
+5+ Premium Pages                                         | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png) |
+Priority Support                                         | ![](https://demo.gethugothemes.com/icons/x.png)| ![](https://demo.gethugothemes.com/icons/tick.png) |
+Get It Now          | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/northendlab/?ref=github)
 
 
 ## Local development
