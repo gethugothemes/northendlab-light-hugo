@@ -21,7 +21,6 @@
 ---
 
 <p align="center">
-<img src="https://demo.gethugothemes.com/thumbnails/northendlab.webp" alt="screenshot" width="100%">
   <img src="https://demo.gethugothemes.com/thumbnails/northendlab-light.webp" alt="screenshot" width="100%">
 </p>
 
