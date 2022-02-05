@@ -1,6 +1,6 @@
 name = "Northendlab Light"
 license = "MIT"
-licenselink = "https://github.com/themefisher/northendlab-light/blob/master/LICENSE"
+licenselink = "https://github.com/gethugothemes/northendlab-light/blob/master/LICENSE"
 description = "Blog Template"
 homepage = "https://github.com/gethugothemes/northendlab-light"
 demosite = "https://demo.gethugothemes.com/northendlab-light/"
@@ -9,5 +9,5 @@ features = ['bootstrap','responsive']
 min_version = "0.58.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "Gethugothemes"
+  homepage = "https://gethugothemes.com/"
