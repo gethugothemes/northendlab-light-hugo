@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://demo.gethugothemes.com/northendlab-light/"
+baseURL = "https://demo.gethugothemes.com/northendlab-light/examplesite/"
 languageCode = "en-us"
 # site title 
 title = "Northendlab | Blog Template"
@@ -40,12 +40,12 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "contact"
+URL = "contact/"
 name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "tools"
+URL = "tools/"
 name = "tools"
 weight = 2
 
@@ -56,12 +56,12 @@ weight = 2
 
 # footer menu
 [[menu.footer]]
-URL = "contact"
+URL = "contact/"
 name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "tools"
+URL = "tools/"
 name = "tools"
 weight = 2
 
