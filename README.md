@@ -127,6 +127,6 @@ If you need to customize the theme or complete website development from scratch,
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.webp)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.webp)](https://gethugothemes.com/products/bigspring/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.webp)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.webp)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Academia** | **Bigspring** |
+| **Get 50+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
