@@ -1,4 +1,4 @@
-<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
+<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://demo.gethugothemes.com/thumbnails/northendlab-light.webp" alt="screenshot" width="100%">
+  <img src="https://user-images.githubusercontent.com/87603786/191000315-24094abe-e830-4447-bcfa-9e03354fafba.png" alt="screenshot" width="100%">
 </p>
 
 ---
@@ -127,6 +127,6 @@ If you need to customize the theme or complete website development from scratch,
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.webp)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.webp)](https://gethugothemes.com/products/bigspring/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
 | **Get 50+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
