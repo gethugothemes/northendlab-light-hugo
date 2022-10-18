@@ -10,6 +10,10 @@
     <meta name="keywords" content="{{ . }}">{{ end }}
     {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">{{ end }}
+  
+  <!-- theme meta -->
+  <meta name="theme-name" content="northendlab-light" />
+  
   {{ hugo.Generator }}
 
   {{ "<!-- plugins -->" | safeHTML }}
