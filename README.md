@@ -1,4 +1,7 @@
-<h1 align=center>Northendlab Light  | <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab-light%2F">Page Speed (90%)</a></h1>
+<h1 align=center>Northendlab Light</h1>  
+<p align=center>Northendlab is a responsive and blazing fast blog theme that is specifically designed for tech or gaming related blogs and developers.  </p>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2Fsite%2F&form_factor=desktop">Page Speed (84%)</a></h2>
+
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -93,10 +96,12 @@ If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/northendlab-light/issues).
 
 ## Northendlab Light Hugo Powered Websites
+- http://changshiban.com/
 - https://www.testlab.live
 - https://www.thecommercegrind.com
 
-Want to submit your own website powered by Northendlab Light Hugo? You can submit it [here](https://github.com/gethugothemes/northendlab-light/discussions/19).
+
+Want to submit your own website powered by Northendlab Light Hugo? You can submit it [here](https://gethugothemes.com/showcase).
 
 <!-- licence -->
 ## License
@@ -127,6 +132,6 @@ If you need to customize the theme or complete website development from scratch,
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
