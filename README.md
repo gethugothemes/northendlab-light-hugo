@@ -95,13 +95,15 @@ issues](https://github.com/gethugothemes/northendlab-light/issues). Someone may 
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/northendlab-light/issues).
 
-## Northendlab Light Hugo Powered Websites
-- http://changshiban.com/
-- https://www.testlab.live
-- https://www.thecommercegrind.com
+## Submit Your Website To Our Showcase
 
+Are you using Northendlab Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-Want to submit your own website powered by Northendlab Light Hugo? You can submit it [here](https://gethugothemes.com/showcase).
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+
+View all the websites powered by Northendlab Hugo from [here](https://gethugothemes.com/showcase?theme=northendlab). 
+
+[Submit](https://gethugothemes.com/showcase?submit=show) your Northendlab Hugo powered website.
 
 <!-- licence -->
 ## License
