@@ -1,6 +1,6 @@
 <h1 align=center>Northendlab Light</h1>  
 <p align=center>Northendlab is a responsive and blazing fast blog theme that is specifically designed for tech or gaming related blogs and developers.  </p>
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2Fsite%2F&form_factor=desktop">Page Speed (84%)</a></h2>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2Fsite%2F&form_factor=desktop">Page Speed (84%)🚀</a></h2>
 
 
 <p align=center>
@@ -28,7 +28,7 @@
 </p>
 
 ---
-## Discover Free & Premium Features
+## 🔑Discover Free & Premium Features
 Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
 :------------ |    :----:    |     :----:    | 
 Google analytics support                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
@@ -53,7 +53,7 @@ Priority Support                                         | ![](https://demo.geth
 Get It Now          | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/northendlab/?ref=github)
 
 
-## Local development
+## 🔧Local development
 
 ```bash
 # clone the repository
@@ -67,7 +67,7 @@ $ hugo server --themesDir ../..
 ```
 Or Check out [Full Documentation](https://docs.gethugothemes.com/Northendlab/?ref=github).
 
-## Content Management System
+## 📋Content Management System
 
 [![import to
 Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/northendlab-light&engine=hugo&version=0.87.0)
@@ -77,25 +77,25 @@ repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/n
 you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
-## Deployment and hosting
+## ⚙️Deployment and hosting
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/northendlab-light)
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
+## 🎥Prefer a video? (Hugo + Netlify + Forestry)
 Build your website with **Northendlab Light Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
-## Reporting Issues
+## 🐞Reporting Issues
 We use GitHub Issues as the official bug tracker for the Northendlab Light Template. Please Search [existing
 issues](https://github.com/gethugothemes/northendlab-light/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/northendlab-light/issues).
 
-## Submit Your Website To Our Showcase
+## 📱Submit Your Website To Our Showcase
 
 Are you using Northendlab Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
@@ -106,7 +106,7 @@ View all the websites powered by Northendlab Hugo from [here](https://gethugothe
 [Submit](https://gethugothemes.com/showcase?submit=show) your Northendlab Hugo powered website.
 
 <!-- licence -->
-## License
+## 📄License
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -116,7 +116,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
+## 🙏Special Thanks
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Themify Icons](https://themify.me/themify-icons)
@@ -126,14 +126,14 @@ share those images.
 - [All Contributors](https://github.com/gethugothemes/northendlab-light/graphs/contributors)
 
 
-## Hire Us
+## 👨‍💻Hire Us
 Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
 
 If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
 [Services](https://gethugothemes.com/services/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 <!-- premium themes -->
-## Premium Themes By Us
+## 💎Premium Themes By Us
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
 | **Get 55+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
