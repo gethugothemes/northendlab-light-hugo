@@ -1,5 +1,21 @@
 {{ define "main" }}
 
+<script>
+  function validateForm() {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var subject = document.getElementById("subject").value;
+    var message = document.getElementById("message").value;
+
+    if (name === "" || email === "" || subject === "" || message === "") {
+      alert("Please fill in all fields before submitting.");
+      return false; 
+    }
+
+    return true;
+  }
+</script>
+
 <section class="section">
   <div class="container">
     <div class="row justify-content-between">
