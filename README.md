@@ -54,16 +54,36 @@ Get It Now          | [![download-light](https://demo.gethugothemes.com/icons/do
 
 ## 🔧Local development
 
+### Clone the repository
+
 ```bash
-# clone the repository
 git clone git@github.com:gethugothemes/northendlab-light.git
-
-# cd in the project directory
-$ cd northendlab-light/exampleSite/
-
-# Start local dev server
-$ hugo server --themesDir ../..
 ```
+
+### Project Setup
+
+```bash
+$ npm run project-setup
+
+```
+
+### Install Dependencies
+
+Install all the necessary dependencies using the following command:
+
+```bash
+npm install
+```
+
+### Development Command
+
+Start the development server using the following command:
+
+```bash
+npm run dev
+```
+
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/Northendlab/?ref=github).
 
 

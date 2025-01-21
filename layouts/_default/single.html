@@ -12,7 +12,7 @@
           {{ end }}
         </div>
         {{ if .Params.Image }}
-        <img src="{{ .Params.Image | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        {{ partial "image.html" (dict "Src" .Params.Image "Alt" "image" "Class" "img-fluid w-100 mb-4" ) }}
         {{ end }}
         <div class="content mb-5">
           {{ .Content }}
@@ -21,23 +21,24 @@
           {{range .Params.Tags }} <a href="{{ `tags/` | relLangURL}}{{ . | urlize | lower }}/">#{{ . | title }}</a>,  {{ end }}
         </div>
       </div>
+
+      {{ $related := .Site.RegularPages.Related . | first 5 }}
+      {{ if $related }}
       <div class="col-lg-8 mx-auto block shadow">
-        {{ $related := .Site.RegularPages.Related . | first 5 }}
-        {{ with $related }}
         <h3>See Also</h3>
         <ul>
-          {{ range . }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ range $related }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
           {{ end }}
         </ul>
-        {{ end }}
-      </div>
-      {{ if .Site.DisqusShortname}}
-      <div class="col-lg-8 mx-auto block shadow">
-        <!-- comments -->
-        {{ template "_internal/disqus.html" . }}
       </div>
       {{ end }}
+      <!-- Disqus comments -->
+      {{ if site.Config.Services.Disqus.Shortname }}
+      <div class="mt-20">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    {{ end }}
     </div>
   </div>
 </section>

@@ -1,0 +1,14 @@
+############################ Default configuration #########################
+baseURL = "https://demo.gethugothemes.com/northendlab-light/examplesite/"
+languageCode = "en-us"
+# site title 
+title = "Northendlab | Blog Template"
+# theme
+theme = "northendlab-light-hugo"
+# post pagination
+pagination.pagerSize = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+[services.disqus]
+shortname = 'themefisher-template'

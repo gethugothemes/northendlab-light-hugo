@@ -1,0 +1,30 @@
+
+########################### Navigation ###################################
+
+# main menu
+[[main]]
+URL = "contact/"
+name = "Contact"
+weight = 1
+
+[[main]]
+URL = "tools/"
+name = "tools"
+weight = 2
+
+[[main]]
+URL = "https://gethugothemes.com/products/northendlab/"
+name = "Buy Premium"
+weight = 2
+
+# footer menu
+[[footer]]
+URL = "contact/"
+name = "Contact"
+weight = 1
+
+[[footer]]
+URL = "tools/"
+name = "tools"
+weight = 2
+

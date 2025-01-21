@@ -1,15 +1,15 @@
 {{ define "main" }}
 
 <!-- banner -->
-<section class="banner bg-cover" style="background-image: url('{{ .Site.Params.banner.bgImage | relURL }}');">
-  <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid illustration" alt="">
+<section class="banner bg-cover" {{ partial `bg-image.html` (dict `Src` .Site.Params.banner.bgImage ) | safeHTMLAttr }}>
+  {{ partial "image.html" (dict "Src" .Site.Params.banner.image "Alt" "image" "Class" "img-fluid illustration" ) }}
   <div class="container">
     <div class="row">
       <div class="col-lg-6 mb-5 mb-lg-0">
         <h1>{{ .Site.Params.banner.title | markdownify }}</h1>
       </div>
       <div class="col-lg-6 illustration-mobile">
-        <img src="{{ .Site.Params.banner.image | relURL }}" class="img-fluid" alt="">
+        {{ partial "image.html" (dict "Src" .Site.Params.banner.image "Alt" "image" "Class" "img-fluid" ) }}
       </div>
     </div>
   </div>
@@ -116,7 +116,8 @@
       <div class="col-lg-8 mx-auto">
         <div class="row shadow bg-white p-5">
           <div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
-            <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" alt="..."></div>
+            {{ partial "image.html" (dict "Src" .Site.Params.cta.image "Alt" "image" "Class" "mr-4" ) }}
+          </div>
           <div class="col-md-8 text-center text-md-left">
             <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
             <p>{{ .Site.Params.cta.description | markdownify }}</p>

@@ -26,7 +26,7 @@
         </form>
       </div>
       <div class="col-lg-6 text-md-right">
-        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="">
+        {{ partial "image.html" (dict "Src" .Params.Image "Alt" "image" "Class" "img-fluid" ) }}
       </div>
     </div>
   </div>
