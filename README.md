@@ -67,14 +67,6 @@ $ npm run project-setup
 
 ```
 
-### Install Dependencies
-
-Install all the necessary dependencies using the following command:
-
-```bash
-npm install
-```
-
 ### Development Command
 
 Start the development server using the following command:
