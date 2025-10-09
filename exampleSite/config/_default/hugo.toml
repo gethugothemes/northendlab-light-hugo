@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://demo.gethugothemes.com/northendlab-light/examplesite/"
+baseURL = "/"
 languageCode = "en-us"
 # site title 
 title = "Northendlab | Blog Template"
