@@ -1,0 +1,29 @@
+{
+  "file": "exampleSite/content/english/author/mark-dinn.md",
+  "name": "author",
+  "fileType": "md",
+  "fmType": "toml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "image",
+      "label": "Image",
+      "type": "media",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    }
+  ]
+}
