@@ -31,25 +31,25 @@
 ## 🔑Discover Free & Premium Features
 Featurees | [Northendlab Light](https://github.com/gethugothemes/northendlab-light)  | [Northendlab Premium](https://gethugothemes.com/products/northendlab/?ref=github) | 
 :------------ |    :----:    |     :----:    | 
-Google analytics support                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-CSS and Js bundle with hugo pipe           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Netlify settings predefine                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                            |
-Contact form Support (formspree)           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Search by fuse.js and mark.js              | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-GDPR consent enable                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Google page speed optimized                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Open graph meta tag                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Twitter card meta tag                      | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Multiple language support (Fr, En)                       | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Multiple author support                                  | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Header-search-layout (expanded, popupable)               | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Menu alignment customized (left, right, or center )      | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Color and fonts variable in config file                  | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Sidebar option (left, right or false)                    | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Mailchimp integrate                                      | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png)                | 
-5+ Premium Pages                                         | ![](https://demo.gethugothemes.com/icons/x.png)     | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Priority Support                                         | ![](https://demo.gethugothemes.com/icons/x.png)| ![](https://demo.gethugothemes.com/icons/tick.png) |
-Get It Now          | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/northendlab/?ref=github)
+Google analytics support                   | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+CSS and Js bundle with hugo pipe           | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Netlify settings predefine                 | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                            |
+Contact form Support (formspree)           | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Search by fuse.js and mark.js              | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+GDPR consent enable                        | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Google page speed optimized                | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Open graph meta tag                        | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Twitter card meta tag                      | ![](https://assets.teamosis.com/icons/tick.png) | ![](https://assets.teamosis.com/icons/tick.png)                |
+Multiple language support (Fr, En)                       | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Multiple author support                                  | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Header-search-layout (expanded, popupable)               | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Menu alignment customized (left, right, or center )      | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Color and fonts variable in config file                  | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Sidebar option (left, right or false)                    | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                |
+Mailchimp integrate                                      | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png)                | 
+5+ Premium Pages                                         | ![](https://assets.teamosis.com/icons/x.png)     | ![](https://assets.teamosis.com/icons/tick.png) |
+Priority Support                                         | ![](https://assets.teamosis.com/icons/x.png)| ![](https://assets.teamosis.com/icons/tick.png) |
+Get It Now          | [![download-light](https://assets.teamosis.com/icons/download.png)](https://github.com/gethugothemes/northendlab-light/archive/refs/heads/master.zip)         | [![download](https://assets.teamosis.com/icons/grab.png)](https://gethugothemes.com/products/northendlab/?ref=github)
 
 
 ## 🔧Local development
@@ -78,15 +78,20 @@ npm run dev
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/Northendlab/?ref=github).
 
+<!-- edit with sitepins -->
 
-## ⚙️Deployment and hosting
+## 📝 Edit Content with CMS
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/northendlab-light)
+This template comes pre-configured with [**Sitepins**](https://sitepins.com), a Git-based Headless CMS designed for seamless content management. You can update your website’s text, images, and configuration without touching a single line of code.
 
-Follow the steps.
+**How to get started:**
 
-<!-- reporting issue -->
+Click the Edit with Sitepins button below and follow the on-screen instructions to start editing your content visually.
+
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=Northendlab%20Light%20Hugo&repository=https://github.com/gethugothemes/northendlab-light-hugo/">
+    <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins">
+  </a>
+
 ## 🐞Reporting Issues
 We use GitHub Issues as the official bug tracker for the Northendlab Light Template. Please Search [existing
 issues](https://github.com/gethugothemes/northendlab-light/issues). Someone may have already reported the same problem.
@@ -132,6 +137,6 @@ If you need to customize the theme or complete website development from scratch,
 
 <!-- premium themes -->
 ## 💎Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://demo.gethugothemes.com/thumbnails/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
+| [![Mega-Bundle-HUGO](https://assets.teamosis.com/thumbs/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=northendlab_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Academia](https://assets.teamosis.com/thumbs/academia.png)](https://gethugothemes.com/products/academia/) | [![bigspring](https://assets.teamosis.com/thumbs/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
+| **Get 68+ Premium Hugo Themes Bundle** | **Academia** | **Bigspring** |
