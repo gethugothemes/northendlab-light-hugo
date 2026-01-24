@@ -1,6 +1,6 @@
 <h1 align=center>Northendlab Light</h1>  
 <p align=center>Northendlab is a responsive and blazing fast blog theme that is specifically designed for tech or gaming related blogs and developers.  </p>
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/northendlab-light/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnorthendlab%2Fsite%2F&form_factor=desktop">Page Speed (84%)🚀</a></h2>
+<h2 align="center"> <a target="_blank" href="https://northendlab-light-hugo.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-northendlab-light-hugo-vercel-app/g4pngexgk8?form_factor=desktop">Page Speed (84%)🚀</a></h2>
 
 
 <p align=center>
