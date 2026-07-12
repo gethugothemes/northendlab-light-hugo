@@ -33,12 +33,12 @@
         </ul>
       </div>
       {{ end }}
-      <!-- Disqus comments -->
-      {{ if site.Config.Services.Disqus.Shortname }}
-      <div class="mt-20">
-        {{ template "_internal/disqus.html" . }}
+      <!-- OpenRemark comments -->
+      {{ if site.Params.open_remark.enable }}
+      <div class="col-lg-8 mx-auto mt-20">
+        {{ partial "open-remark.html" . }}
       </div>
-    {{ end }}
+      {{ end }}
     </div>
   </div>
 </section>
